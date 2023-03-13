@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: v1.2.1-25-gdaa0f2e
+_src_path: PPT-MAIN/python-project-template
+author_email: name@you.com
+author_name: Your Name
+create_example_module: true
+include_notebooks: true
+module_name: example_module
+preferred_linter: pylint
+project_name: example_project
+use_isort: true
